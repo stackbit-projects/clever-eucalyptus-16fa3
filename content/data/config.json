@@ -28,5 +28,6 @@
             "url": "/faq",
             "style": "link"
         }
-    ]
+    ],
+    "domain": "https://clever-eucalyptus-16fa3.netlify.app"
 }
